@@ -111,9 +111,9 @@
 	name = "Куртка налоговой службы"
 	item_path = /obj/item/clothing/suit/costume/irs
 
-/datum/loadout_item/suits/letterman_syndie
+/datum/loadout_item/suits/letterman_red
 	name = "Красная куртка лейтенанта"
-	item_path = /obj/item/clothing/suit/jacket/letterman_syndie
+	item_path = /obj/item/clothing/suit/jacket/letterman_red
 
 /datum/loadout_item/suits/soviet
 	name = "Советское пальто"
